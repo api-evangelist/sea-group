@@ -30,6 +30,15 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/sea-group.
 tags:
   - Holding Company
   - Southeast Asia
+  - E-Commerce
+  - Digital Entertainment
+  - Financial-Services
+  - Shopee
+  - Garena
+  - SeaMoney
+tags_raw:
+  - Holding Company
+  - Southeast Asia
   - E-commerce
   - Digital Entertainment
   - Financial Services
